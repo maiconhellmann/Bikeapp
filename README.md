@@ -14,3 +14,11 @@ In this project we can see the implementation of the following items:
 
 ** Application implemented to solve a practical test developed by crossover.
 
+#Configurations
+
+* Install any dependencies of nodejs to start the mock API.
+* Start nodejs in "server" directory
+* In Android project, change the “api_address” string value in “strings.xml” to your API address like “http://localhost:8080/api/v1/%1$s”.
+* Update SDK tools(Google Play Services is mandatory) If you are executing in Android emulator.
+* Update Android SDK version if needed.
+
