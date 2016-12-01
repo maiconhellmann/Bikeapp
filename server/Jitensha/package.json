@@ -1,0 +1,15 @@
+{
+  "name": "jitensha",
+  "version": "0.0.1",
+  "private": true,
+  "description": "じてんしゃ - Saitama Rent a bike seach Api",
+  "name" : "crossover",
+  "url" : "crossover.com",
+  "main": "server.js",
+  "scripts": {"start": "node server.js"},
+  "dependencies": {
+    "express": "~4.0.0",
+    "body-parser": "~1.15.1",
+    "isvalid": "~1.3.5"
+  }
+}
