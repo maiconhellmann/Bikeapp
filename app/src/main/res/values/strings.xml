@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Bikeapp</string>
+    <string name="title_activity_map">Bikeapp</string>
+
+    <!--Login Activity-->
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="create">Create account</string>
+    <string name="login">Login</string>
+    <string name="logo_content_description">Logo</string>
+    <string name="default_email">crossover@crossover.com</string>
+    <string name="default_pass">crossover</string>
+
+    <!--AlertUtils-->
+    <string name="label_attention">Attention</string>
+    <string name="label_yes">Yes</string>
+    <string name="label_no">No</string>
+    <string name="label_cancel">Cancel</string>
+    <string name="label_confirm">Confirm</string>
+    <string name="label_share">Share</string>
+    <string name="label_ok">OK</string>
+    <string name="label_erro">Error</string>
+    <string name="label_fechar">Close</string>
+    <string name="label_warning">Advice</string>
+    <string name="label_information">Information</string>
+    <string name="loading">Loading...</string>
+    <string name="wait">Plase wait</string>
+
+    <!--MapActivityctivity-->
+    <string name="rent">Rent</string>
+    <string name="rent_question">Do you want to rent?</string>
+
+    <!--PaymentFragment-->
+    <string name="payment">Payment</string>
+    <string name="payment_number">Number</string>
+    <string name="payment_name">Name</string>
+    <string name="payment_expiration">Expiration</string>
+    <string name="payment_code">Code</string>
+
+    <!--Errors-->
+    <string name="username_required">Username is mandatory</string>
+    <string name="password_required">Password is mandatory</string>
+    <string name="login_invalid">Wrong credentials</string>
+    <string name="required">Required</string>
+
+    <!--API-->
+    <string name="api_address">http://192.168.2.100:8080/api/v1/%1$s</string>
+    <string name="api_auth">auth</string>
+    <string name="api_register">register</string>
+    <string name="api_rent">rent</string>
+    <string name="api_places">places</string>
+</resources>
+

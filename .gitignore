@@ -1,6 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Android template
 # Built application files
 *.apk
 *.ap_
+/app/app.iml
+
+local.properties
 
 # Files for the ART/Dalvik VM
 *.dex
@@ -38,3 +43,9 @@ captures/
 
 # Keystore files
 *.jks
+
+/local.properties
+/.gradle/
+/.idea/
+/build/
+/.idea/workspace.xml
